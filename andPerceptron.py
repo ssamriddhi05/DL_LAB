@@ -11,3 +11,5 @@ def andPerceptron( x1, x2):
 for x in inputs:
   print(x, "->", andPerceptron(x[0], x[1]))
 
+
+
